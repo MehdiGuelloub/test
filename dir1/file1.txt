@@ -1,2 +1,3 @@
 hello from master after after merge...
-##
+=> This message is from a secondBranch
+## this is solving CONFLIT
